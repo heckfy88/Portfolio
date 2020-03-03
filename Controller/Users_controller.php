@@ -1,5 +1,5 @@
 <?php
-include "/Users/ruslanagaev/Desktop/PHP_STORM/Portfolio/Model/Users_model.php";
+include "Portfolio/Model/Users_model.php";
 
 $user = new Users;
 if (isset($_POST["submit"])) {
