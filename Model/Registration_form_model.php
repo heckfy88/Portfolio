@@ -1,6 +1,6 @@
 <?php
 
-include "/Users/ruslanagaev/Desktop/PHP_STORM/Portfolio/Model/DB.php";
+include "/Portfolio/Model/DB.php";
 
 //  User data array is sent to MySQL
 
