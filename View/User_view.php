@@ -40,7 +40,7 @@
         </tr>
         </thead>
         <tbody>
-        <?php include "/Users/ruslanagaev/Desktop/PHP_STORM/Portfolio/Controller/Users_controller.php"; ?>
+        <?php include "Portfolio/Controller/Users_controller.php"; ?>
         </tbody>
     </table>
 </form>
