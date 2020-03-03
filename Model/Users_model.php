@@ -1,5 +1,5 @@
 <?php
-include "/Users/ruslanagaev/Desktop/PHP_STORM/Portfolio/Model/DB.php";
+include "/Portfolio/Model/DB.php";
 
 $connection = new DB;
 
